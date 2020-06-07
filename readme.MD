@@ -1,1 +1,3 @@
-Gak papa kok gak sakit hehe
+# Script CI
+
+# BY KANGHL
